@@ -1,9 +1,9 @@
 
   let num = 13;
   let factor = 0;
-   for(let i =1;i<=num;i--){
+   for(let i =1;i<=num;i++){
 
-	if(num%i==1){
+	if(num%i==0){
 
 	factor++;
 
@@ -12,7 +12,7 @@
 	    
     }
     
-     if(factor==3){
+     if(factor==2){
 
      console.log("Prime no.")
      
