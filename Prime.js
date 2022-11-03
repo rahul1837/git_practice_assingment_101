@@ -1,9 +1,9 @@
 
-  let num = 13;
+  let number = 13;
   let factor = 0;
-   for(let i =1;i<=num;i++){
+   for(let i =1;i<=number;i++){
 
-	if(num%i==0){
+	if(number%i==0){
 
 	factor++;
 
@@ -14,13 +14,13 @@
     
      if(factor==2){
 
-     console.log("Prime no.")
+     console.log("This is a Prime Number")
      
      }
      
        else{
 
-       console.log("Not a Prime no.")
+       console.log("This is not a Prime Number")
        
 	
 	    
