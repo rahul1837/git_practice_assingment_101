@@ -14,13 +14,18 @@
     
      if(factor==2){
 
-     console.log("Prime number.")
+     
+
+     console.log("This is a Prime Number")
+
      
      }
      
        else{
 
-       console.log("Not a Prime number.")
+
+       console.log("This is not a Prime Number")
+}
        
 	
 	    
